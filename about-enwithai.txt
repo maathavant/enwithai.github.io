@@ -1,0 +1,15 @@
+# About EnWithAI
+
+**Who we are**
+
+EnWithAI builds intelligence-first systems that make engineering work feel natural, coherent, and faster.
+
+**Why the name matters**
+
+“Withai” in Tamil means *seed*.
+
+EnWithAI represents the seed of intelligence planted inside engineering workflows — designed to grow into platforms, products, and agents that simplify life for engineering teams.
+
+**Mission**
+
+To turn every engineering organization into an intelligence-native organization without demanding behavioral change.

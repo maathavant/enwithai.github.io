@@ -1,0 +1,17 @@
+# Our Platform Vision: EnginOS
+
+EnginOS is the foundational Operating System for Engineering Intelligence.
+
+**EnginOS is:**
+
+- A unified engineering brain that connects code, systems, people, and processes
+- A semantic model that understands *intent*, not just tasks
+- A platform that allows rapid creation of AI agents and engineering assistants
+- A flexible, scalable layer that works with existing tools
+
+**EnginOS unlocks:**
+
+- Intelligent workflows
+- Cross-system reasoning
+- Knowledge continuity
+- Fast rollout of AI-native products like CrewPE

@@ -1,0 +1,33 @@
+Introducing CrewPE - Experience on top of Platform
+
+CrewPE is our first product built on EnginOS.
+
+An AI-first Engineering Lifecycle Platform that acts like the smart partner your engineering team has always needed.
+
+**CrewPE delivers:**
+
+- Auto-generated requirements, stories, and test flows
+- Code insights, PR reviews, and architecture guidance
+- Auto-summarized sprints, releases, and incidents
+- Early detection of bottlenecks, risks, and dependencies
+- A knowledge graph that remembers decisions, reasoning, and patterns
+
+Designed to embed intelligence, not add another tool.
+
+---
+
+# Slide 6 — Who We Serve
+
+**Ideal customer profiles**
+
+- Product engineering teams in SaaS, platforms, digital-first orgs
+- Mid-size and enterprise engineering organizations
+- High-growth startups scaling rapidly
+- Teams struggling with velocity, onboarding, or cognitive overload
+
+**Primary personas**
+
+- CTO / Head of Engineering
+- VP / Director of Engineering
+- Engineering Managers
+- Developers seeking faster, clearer workflowsc

@@ -1,0 +1,13 @@
+# What Makes CrewPE Different
+
+**Not another PM tool. Not another AI assistant. Not another dashboard.**
+
+**Our edge:**
+
+- Platform-first architecture (EnginOS)
+- End-to-end lifecycle understanding
+- Context-rich AI agents
+- Fast setup and minimal change management
+- Plays well with Jira, GitHub, GitLab, Azure DevOps, Slack, Teams
+
+We aim to become the intelligence spine of engineering organizations.
